@@ -7,6 +7,9 @@
 
 {literal}
 <script>
+
+//var baseUrl = "{/literal}{$base_dir|escape:'htmlall':'UTF-8'}{literal}";
+
 var baseUrl = window.location.origin+'/';
 </script>
 {/literal}
